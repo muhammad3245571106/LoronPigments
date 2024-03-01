@@ -1,4 +1,4 @@
-# Loron Pigments
+# Loron Pigments - Paint selling website using HTML and CSS
 Loron Pigments is a website for selling paints and showcasing live samples of paints to users so that they can make decisions easily.
 It gives paints, primers, and painters for homes.
 I developed this website using HTML and made it look nice using CSS.
